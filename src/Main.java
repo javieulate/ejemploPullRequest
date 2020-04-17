@@ -10,7 +10,7 @@ public class Main {
 	
 	public static void haciendoPullRequest()
 	{
-		//El que haga pull request lo implementará
+		System.out.println("Hola soy Juan, este es mi segundo pull request.");
 	}
 
 }
