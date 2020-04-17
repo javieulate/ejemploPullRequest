@@ -3,7 +3,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hola, soy el código original sin que me hagan pull request.");
+		System.out.println("Hola, soy el cÃ³digo original sin que me hagan pull request.");
 		haciendoPullRequest();
 
 	}
